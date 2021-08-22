@@ -1,3 +1,5 @@
+import numpy as np
+
 def valor_cinema_opcional(idade, carteirinha_estudante=False):
     """
     Código para calcular o valor de um ingresso dada a idade de uma pessoa e se ela possui carteirinha de estudante.
